@@ -18,6 +18,133 @@
     <path d="M23 1.00005C22.0424 1.67552 20.9821 2.19216 19.86 2.53005C19.2577 1.83756 18.4573 1.34674 17.567 1.12397C16.6767 0.901206 15.7395 0.957242 14.8821 1.2845C14.0247 1.61176 13.2884 2.19445 12.773 2.95376C12.2575 3.71308 11.9877 4.61238 12 5.53005V6.53005C10.2426 6.57561 8.50127 6.18586 6.93101 5.39549C5.36074 4.60513 4.01032 3.43868 3 2.00005C3 2.00005 -1 11 8 15C5.94053 16.398 3.48716 17.099 1 17C10 22 21 17 21 5.50005C20.9991 5.2215 20.9723 4.94364 20.92 4.67005C21.9406 3.66354 22.6608 2.39276 23 1.00005V1.00005Z" stroke="#41EAD4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
   </symbol>
 
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" overflow="visible" id="cross" >
+    <path d="M18 6L6 18" stroke="#41EAD4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M6 6L18 18" stroke="#41EAD4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+  </symbol>
+
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 230" id="Dots">
+    <circle cx="5" cy="125" r="5" fill="#41EAD4"></circle>
+    <circle cx="25" cy="125" r="5" fill="#41EAD4"></circle>
+    <circle cx="45" cy="125" r="5" fill="#41EAD4"></circle>
+    <circle cx="65" cy="125" r="5" fill="#41EAD4"></circle>
+    <circle cx="85" cy="125" r="5" fill="#41EAD4"></circle>
+    <circle cx="105" cy="125" r="5" fill="#41EAD4"></circle>
+    <circle cx="5" cy="145" r="5" fill="#41EAD4"></circle>
+    <circle cx="25" cy="145" r="5" fill="#41EAD4"></circle>
+    <circle cx="45" cy="145" r="5" fill="#41EAD4"></circle>
+    <circle cx="65" cy="145" r="5" fill="#41EAD4"></circle>
+    <circle cx="85" cy="145" r="5" fill="#41EAD4"></circle>
+    <circle cx="105" cy="145" r="5" fill="#41EAD4"></circle>
+    <circle cx="5" cy="165" r="5" fill="#41EAD4"></circle>
+    <circle cx="25" cy="165" r="5" fill="#41EAD4"></circle>
+    <circle cx="45" cy="165" r="5" fill="#41EAD4"></circle>
+    <circle cx="65" cy="165" r="5" fill="#41EAD4"></circle>
+    <circle cx="85" cy="165" r="5" fill="#41EAD4"></circle>
+    <circle cx="105" cy="165" r="5" fill="#41EAD4"></circle>
+    <circle cx="5" cy="185" r="5" fill="#41EAD4"></circle>
+    <circle cx="25" cy="185" r="5" fill="#41EAD4"></circle>
+    <circle cx="45" cy="185" r="5" fill="#41EAD4"></circle>
+    <circle cx="65" cy="185" r="5" fill="#41EAD4"></circle>
+    <circle cx="85" cy="185" r="5" fill="#41EAD4"></circle>
+    <circle cx="105" cy="185" r="5" fill="#41EAD4"></circle>
+    <circle cx="5" cy="205" r="5" fill="#41EAD4"></circle>
+    <circle cx="25" cy="205" r="5" fill="#41EAD4"></circle>
+    <circle cx="45" cy="205" r="5" fill="#41EAD4"></circle>
+    <circle cx="65" cy="205" r="5" fill="#41EAD4"></circle>
+    <circle cx="85" cy="205" r="5" fill="#41EAD4"></circle>
+    <circle cx="105" cy="205" r="5" fill="#41EAD4"></circle>
+    <circle cx="5" cy="225" r="5" fill="#41EAD4"></circle>
+    <circle cx="25" cy="225" r="5" fill="#41EAD4"></circle>
+    <circle cx="45" cy="225" r="5" fill="#41EAD4"></circle>
+    <circle cx="65" cy="225" r="5" fill="#41EAD4"></circle>
+    <circle cx="85" cy="225" r="5" fill="#41EAD4"></circle>
+    <circle cx="105" cy="225" r="5" fill="#41EAD4"></circle>
+    <circle cx="5" cy="5" r="5" fill="#41EAD4"></circle>
+    <circle cx="25" cy="5" r="5" fill="#41EAD4"></circle>
+    <circle cx="45" cy="5" r="5" fill="#41EAD4"></circle>
+    <circle cx="65" cy="5" r="5" fill="#41EAD4"></circle>
+    <circle cx="85" cy="5" r="5" fill="#41EAD4"></circle>
+    <circle cx="105" cy="5" r="5" fill="#41EAD4"></circle>
+    <circle cx="5" cy="25" r="5" fill="#41EAD4"></circle>
+    <circle cx="25" cy="25" r="5" fill="#41EAD4"></circle>
+    <circle cx="45" cy="25" r="5" fill="#41EAD4"></circle>
+    <circle cx="65" cy="25" r="5" fill="#41EAD4"></circle>
+    <circle cx="85" cy="25" r="5" fill="#41EAD4"></circle>
+    <circle cx="105" cy="25" r="5" fill="#41EAD4"></circle>
+    <circle cx="5" cy="45" r="5" fill="#41EAD4"></circle>
+    <circle cx="25" cy="45" r="5" fill="#41EAD4"></circle>
+    <circle cx="45" cy="45" r="5" fill="#41EAD4"></circle>
+    <circle cx="65" cy="45" r="5" fill="#41EAD4"></circle>
+    <circle cx="85" cy="45" r="5" fill="#41EAD4"></circle>
+    <circle cx="105" cy="45" r="5" fill="#41EAD4"></circle>
+    <circle cx="5" cy="65" r="5" fill="#41EAD4"></circle>
+    <circle cx="25" cy="65" r="5" fill="#41EAD4"></circle>
+    <circle cx="45" cy="65" r="5" fill="#41EAD4"></circle>
+    <circle cx="65" cy="65" r="5" fill="#41EAD4"></circle>
+    <circle cx="85" cy="65" r="5" fill="#41EAD4"></circle>
+    <circle cx="105" cy="65" r="5" fill="#41EAD4"></circle>
+    <circle cx="5" cy="85" r="5" fill="#41EAD4"></circle>
+    <circle cx="25" cy="85" r="5" fill="#41EAD4"></circle>
+    <circle cx="45" cy="85" r="5" fill="#41EAD4"></circle>
+    <circle cx="65" cy="85" r="5" fill="#41EAD4"></circle>
+    <circle cx="85" cy="85" r="5" fill="#41EAD4"></circle>
+    <circle cx="105" cy="85" r="5" fill="#41EAD4"></circle>
+    <circle cx="5" cy="105" r="5" fill="#41EAD4"></circle>
+    <circle cx="25" cy="105" r="5" fill="#41EAD4"></circle>
+    <circle cx="45" cy="105" r="5" fill="#41EAD4"></circle>
+    <circle cx="65" cy="105" r="5" fill="#41EAD4"></circle>
+    <circle cx="85" cy="105" r="5" fill="#41EAD4"></circle>
+    <circle cx="105" cy="105" r="5" fill="#41EAD4"></circle>
+    <circle cx="125" cy="125" r="5" fill="#41EAD4"></circle>
+    <circle cx="145" cy="125" r="5" fill="#41EAD4"></circle>
+    <circle cx="165" cy="125" r="5" fill="#41EAD4"></circle>
+    <circle cx="185" cy="125" r="5" fill="#41EAD4"></circle>
+    <circle cx="205" cy="125" r="5" fill="#41EAD4"></circle>
+    <circle cx="225" cy="125" r="5" fill="#41EAD4"></circle>
+    <circle cx="125" cy="145" r="5" fill="#41EAD4"></circle>
+    <circle cx="145" cy="145" r="5" fill="#41EAD4"></circle>
+    <circle cx="165" cy="145" r="5" fill="#41EAD4"></circle>
+    <circle cx="185" cy="145" r="5" fill="#41EAD4"></circle>
+    <circle cx="205" cy="145" r="5" fill="#41EAD4"></circle>
+    <circle cx="225" cy="145" r="5" fill="#41EAD4"></circle>
+    <circle cx="125" cy="165" r="5" fill="#41EAD4"></circle>
+    <circle cx="145" cy="165" r="5" fill="#41EAD4"></circle>
+    <circle cx="165" cy="165" r="5" fill="#41EAD4"></circle>
+    <circle cx="185" cy="165" r="5" fill="#41EAD4"></circle>
+    <circle cx="205" cy="165" r="5" fill="#41EAD4"></circle>
+    <circle cx="225" cy="165" r="5" fill="#41EAD4"></circle>
+    <circle cx="125" cy="185" r="5" fill="#41EAD4"></circle>
+    <circle cx="145" cy="185" r="5" fill="#41EAD4"></circle>
+    <circle cx="165" cy="185" r="5" fill="#41EAD4"></circle>
+    <circle cx="185" cy="185" r="5" fill="#41EAD4"></circle>
+    <circle cx="205" cy="185" r="5" fill="#41EAD4"></circle>
+    <circle cx="225" cy="185" r="5" fill="#41EAD4"></circle>
+    <circle cx="125" cy="205" r="5" fill="#41EAD4"></circle>
+    <circle cx="145" cy="205" r="5" fill="#41EAD4"></circle>
+    <circle cx="165" cy="205" r="5" fill="#41EAD4"></circle>
+    <circle cx="185" cy="205" r="5" fill="#41EAD4"></circle>
+    <circle cx="205" cy="205" r="5" fill="#41EAD4"></circle>
+    <circle cx="225" cy="205" r="5" fill="#41EAD4"></circle>
+    <circle cx="125" cy="225" r="5" fill="#41EAD4"></circle>
+    <circle cx="145" cy="225" r="5" fill="#41EAD4"></circle>
+    <circle cx="165" cy="225" r="5" fill="#41EAD4"></circle>
+    <circle cx="185" cy="225" r="5" fill="#41EAD4"></circle>
+    <circle cx="205" cy="225" r="5" fill="#41EAD4"></circle>
+    <circle cx="225" cy="225" r="5" fill="#41EAD4"></circle>
+  </symbol>
+
+
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" overflow="visible" id="arrow-next">
+    <path d="M5 12L19 12" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M12 19L19 12L12 5" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+  </symbol>
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" overflow="visible" id="arrow-down">
+    <path d="M19 12L5 12" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M12 19L5 12L12 5" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+  </symbol>
+
+
 
 
 </svg>
