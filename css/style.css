@@ -221,7 +221,7 @@ span {
 
 .header_social {
   display: flex;
-  justify-content: space-between;
+  justify-content: end;
   
 }
 .scroll {
@@ -229,8 +229,10 @@ span {
   -moz-transform: rotate(271deg);    /* Firefox это тоже поддерживает */
   -ms-transform: rotate(271deg);     /* Привет от IE 9 */
   -o-transform: rotate(271deg);      /* И Opera не отстает */
-  transform: rotate(271deg);  
-
+  transform: rotate(271deg) translateY(-100px);  
+  position: fixed;
+  padding-bottom: 100px;
+  z-index: 6;
 }
 .scroll_seporator {
   display: flex;
