@@ -746,3 +746,62 @@ main{
 
   padding-top: 33px;
 }
+
+
+/* footer */
+
+
+
+.footer_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  padding-bottom: 150px;
+}
+
+.block_menu-list {
+  display: flex;
+
+  margin-top: 120px;
+  margin-bottom: 70px;
+  gap: 100px;
+}
+
+.footer_menu {
+  
+}
+
+.footer_list {
+}
+
+
+.footer_list-item {
+  font-family: Larsseit;
+  font-size: 15px;
+  font-weight: 200;
+  line-height: 19px;
+  text-align: left;
+
+  padding-top: 20px;
+}
+
+#bold {
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 24px;
+  text-align: left;
+  text-transform: uppercase;
+  padding-bottom: 20px;
+}
+
+.social_menu {
+  display: flex;
+  gap: 18px;
+  padding-top: 20px;
+}
+
+.footer-copyright {
+  margin-bottom: 35px;
+}
